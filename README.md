@@ -3,4 +3,6 @@ Use this script to get basic information from the json file which you get when y
 Usage
 -----
 
-ruby adn_stats.rb your_
+```
+$ ruby adn_stats.rb the_json_file_you_get_from_adn.json
+```
