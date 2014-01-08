@@ -6,3 +6,5 @@ Usage
 ```
 $ ruby adn_stats.rb the_json_file_you_get_from_adn.json
 ```
+
+[![endorse](https://api.coderwall.com/dasdom/endorsecount.png)](https://coderwall.com/dasdom)
