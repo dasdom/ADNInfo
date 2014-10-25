@@ -56,7 +56,7 @@ if $0 == __FILE__
   puts "----------------------------------------------"
   puts total_posts.to_s.rjust(10) + " total"
 
-  puts "\nYou have posted #{number_of_long_posts} post which couldn't have been tweets (>140 characters)."
+  puts "\nYou have posted #{number_of_long_posts} posts which couldn't have been tweeted (>140 characters)."
   puts "#{number_of_original_posts} of your #{total_posts} post didn't mention another user."
 
   puts "\nYou have mentioned the following people:"
